@@ -25,11 +25,10 @@ This project analyzes E-Commerce sales data and presents key business metrics th
 The Excel dashboard provides an interactive view of sales performance and helps users identify trends and compare business performance across different categories.
 
 ## Project File
-- `Excel Dashboard P1.xlsx` – Complete Excel dashboard project
+- `Excel Dashboard P1.xlsx` – Complete Excel dashboard project.
+- 
 ## Dashboard Preview
-![E-Commerce Sales Dashboard]
-(Dashboard_preview.png)
-
+![Dashboard Screenshot](Dashboard.png)
 
 ## Author
 Manoj Mari
