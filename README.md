@@ -26,7 +26,7 @@ The Excel dashboard provides an interactive view of sales performance and helps 
 
 ## Project File
 - `Excel Dashboard P1.xlsx` – Complete Excel dashboard project.
-- 
+  
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard.png)
 
